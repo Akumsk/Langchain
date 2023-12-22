@@ -9,6 +9,7 @@ black = "*"
 openai = "*"
 anthropic = "*"
 google-search-results = "*"
+tweepy = "*"
 
 [dev-packages]
 
